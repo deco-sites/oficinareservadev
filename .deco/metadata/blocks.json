@@ -324,5 +324,9 @@
   "/.deco/blocks/Preview%20commerce%2Fsections%2FSeo%2FSeoPLPV2.tsx.json": {
     "blockType": "sections",
     "__resolveType": "commerce/sections/Seo/SeoPLPV2.tsx"
+  },
+  "/.deco/blocks/Preview%20vtex%2Floaders%2FintelligentSearch%2FproductList.ts.json": {
+    "blockType": "loaders",
+    "__resolveType": "vtex/loaders/intelligentSearch/productList.ts"
   }
 }

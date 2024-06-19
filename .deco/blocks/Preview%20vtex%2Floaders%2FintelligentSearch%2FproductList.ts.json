@@ -1,0 +1,11 @@
+{
+  "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+  "props": {
+    "sort": "price:desc",
+    "fuzzy": "automatic",
+    "count": 1,
+    "query": "camisa",
+    "hideUnavailableItems": true,
+    "similars": true
+  }
+}
